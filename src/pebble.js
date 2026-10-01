@@ -18,7 +18,7 @@
     }
 
     // wisp url (changable)
-    sandstone.libcurl.set_websocket("wss://math.scramsoon.cfd/cdn-cgi/p/");
+    sandstone.libcurl.set_websocket("wss://korona.thewhitedoveschools.org/wisp/");
 
     // chatgpt b64 decoder
     const decodeUrl = (str) => {

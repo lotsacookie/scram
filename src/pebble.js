@@ -18,7 +18,7 @@
     }
 
     // wisp url (changable)
-    sandstone.libcurl.set_websocket("wss://athollcottage.com/connection/");
+    sandstone.libcurl.set_websocket("wss://math.scramsoon.cfd/cdn-cgi/p/");
 
     // chatgpt b64 decoder
     const decodeUrl = (str) => {
